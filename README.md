@@ -29,4 +29,4 @@
 ---
 
 
-![N0ODle's github stats](https://github-readme-stats.vercel.app/api?username=N0ODle&include_all_commits=true)
+![N0ODle's github stats](https://github-readme-stats.vercel.app/api?username=N0ODle&show_icons=true&count_private=true&theme=synthwave)
