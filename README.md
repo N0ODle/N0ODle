@@ -29,4 +29,4 @@
 ---
 
 
-<img align="left" alt="N0ODle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=N0ODle&show_icons=true&hide_border=true&theme=synthwave&include_all_commits=true" />
+<img align="left" alt="N0ODle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=N0ODle&show_icons=true&hide_border=true&theme=synthwave" />
