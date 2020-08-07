@@ -1,4 +1,4 @@
-### N0ODle aka rai 👽
+### N0ODle aka [rai] 👽
 
 - 🔭 researching deep learning applications in astrophysics/astronomy
 
