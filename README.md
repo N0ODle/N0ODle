@@ -28,4 +28,4 @@
 
 ---
 
-<img align="left" alt="N0ODle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=N0ODle&show_icons=true&hide_border=true" />
+[![N0ODle's github stats](https://github-readme-stats.vercel.app/api?username=N0ODle)](https://github.com/anuraghazra/github-readme-stats)
