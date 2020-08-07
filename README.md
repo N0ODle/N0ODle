@@ -12,7 +12,7 @@
 ### Languages:
 
 
-[<img align="left" alt="Python" width="26px" src="/Users/royce.moon/Downloads/python.jpeg" />]
+[<img align="left" alt="Python" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F600px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&tbnid=fOm7m-U27qvN7M&vet=12ahUKEwjHjKiIoYrrAhUCjOAKHRTbDA0QMygAegUIARDNAQ..i&docid=X6b2dkbhySknGM&w=600&h=600&q=python%20logo&safe=strict&client=opera-gx&ved=2ahUKEwjHjKiIoYrrAhUCjOAKHRTbDA0QMygAegUIARDNAQ" />]
 [<img align="left" alt="C" width="26px" src="/Users/royce.moon/Downloads/C++.png" />]
 [<img align="left" alt="C++" width="26px" src="/Users/royce.moon/Downloads/C++.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
@@ -28,4 +28,3 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
