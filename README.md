@@ -28,4 +28,6 @@
 
 ---
 
-<img align="left" alt="N0ODle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=N0ODle&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
+[![N0ODle's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0ODle&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0ODle)](https://github.com/anuraghazra/github-readme-stats)
