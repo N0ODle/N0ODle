@@ -1,6 +1,6 @@
 # N0ODle  aka  [rai] 👽
 
-- **🔭 researching deep learning applications in astronomy**
+- **🌙 researching deep learning applications in astronomy**
 
 - **📈 ML Engineer Intern @ SmartNup EdTech**
 
@@ -9,6 +9,7 @@
   - **🛠 reverse engineering**
   - **💻 red teaming**
   - **🚩 CTF hacking**
+  - **🔭 astronomy**
 
 
 <br />
