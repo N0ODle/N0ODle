@@ -1,10 +1,10 @@
 # N0ODle aka [rai] 👽
 
-- 🔭 researching deep learning applications in astrophysics/astronomy
+- **🔭 researching deep learning applications in astrophysics/astronomy**
 
-- 📈 ML Engineer Intern
+- **📈 ML Engineer Intern**
 
-- ⚡️Hobbies: producing music, telescopes, reverse engineering, red teaming, CTFs
+- **⚡️Hobbies: producing music, telescopes, reverse engineering, red teaming, CTFs**
 
 
 <br />
