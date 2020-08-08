@@ -15,13 +15,7 @@
 
 
 ![python](https://user-images.githubusercontent.com/32581705/89698031-0e7ad080-d8ed-11ea-8999-ec372dc699e1.png)
-![java](https://user-images.githubusercontent.com/32581705/89697939-8d233e00-d8ec-11ea-9cf6-3a5feecb4895.png)
-![C](docs/C.png)
-![C++](docs/C++.png)
-![assembly](docs/assembly.jpeg)
-![bash](docs/bash.png)
-![html](docs/html.png)
-![css](docs/css.png)
+![java](https://user-images.githubusercontent.com/32581705/89698067-2d796280-d8ed-11ea-8273-94ff027669da.png)
 
 
 
