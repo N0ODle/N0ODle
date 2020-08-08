@@ -7,7 +7,7 @@
 - **⚡️Hobbies:**
   - **🎹 music producing, ukulele, violin** 
   - **🛠 reverse engineering**
-  - **💻 red teaming**
+  - **💻 pentesting**
   - **🚩 CTF hacking**
   - **🔭 astronomy**
 
