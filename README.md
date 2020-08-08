@@ -2,7 +2,7 @@
 
 - 🔭 researching deep learning applications in astrophysics/astronomy
 
-- 📈 ML Engineer at SmartnUp EdTech
+- 📈 ML Engineer at SmartnUp EdTech (facial recognition attendance system)
 
 - ⚡️Hobbies: producing music, telescopes, reverse engineering, red teaming, CTFs
 
