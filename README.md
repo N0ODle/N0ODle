@@ -1,15 +1,20 @@
-# N0ODle aka [rai] 👽
+# N0ODle  aka  [rai] 👽
 
-- **🔭 researching deep learning applications in astrophysics/astronomy**
+- **🔭 researching deep learning applications in astronomy**
 
-- **📈 ML Engineer Intern**
+- **📈 ML Engineer Intern @ SmartNup EdTech**
 
-- **⚡️Hobbies: producing music, telescopes, reverse engineering, red teaming, CTFs**
+- **⚡️Hobbies**
+  - **🎹 music producing, ukulele, violin** 
+  - **🛠 reverse engineering**
+  - **💻 red teaming**
+  - **🚩 CTF hacking**
 
 
 <br />
 
 ---
+
 
 ### Languages:
 
@@ -24,8 +29,6 @@
 ![css](https://user-images.githubusercontent.com/32581705/89698490-8fd36280-d8ef-11ea-9d29-90670264d830.png)
 ![js](https://user-images.githubusercontent.com/32581705/89698528-c315f180-d8ef-11ea-85d6-86469ed424bc.png)
 ![mysql1](https://user-images.githubusercontent.com/32581705/89698731-bcd44500-d8f0-11ea-9c38-908dec564890.png)
-
-
 
 
 
