@@ -12,10 +12,9 @@
   - **🔭 astronomy**
 
 
-<br />
+<br>
 
 ---
-
 
 ### Languages:
 
@@ -31,11 +30,13 @@
 ![js](https://user-images.githubusercontent.com/32581705/89698528-c315f180-d8ef-11ea-85d6-86469ed424bc.png)
 ![mysql1](https://user-images.githubusercontent.com/32581705/89698731-bcd44500-d8f0-11ea-9c38-908dec564890.png)
 
+<br>
 
+---
+<br>
+<br>
 
-
-
-
+![N0ODle's github stats](https://github-readme-stats-6a7aak3k7.vercel.app/api?username=N0ODle&show_icons=true&include_all_commits=true&theme=synthwave&count_private=true)
 
 
 
