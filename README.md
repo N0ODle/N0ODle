@@ -4,7 +4,7 @@
 
 - **📈 ML Engineer Intern @ SmartNup EdTech**
 
-- **⚡️Hobbies**
+- **⚡️Hobbies:**
   - **🎹 music producing, ukulele, violin** 
   - **🛠 reverse engineering**
   - **💻 red teaming**
