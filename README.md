@@ -15,13 +15,13 @@
 
 
 ![Python](docs/python.jpeg)
-![bash](docs/java.png)
+![jav](docs/java.png)
 ![C](docs/C.png)
 ![C++](docs/C++.png)
-![bash](docs/assembly.jpeg)
+![assembly](docs/assembly.jpeg)
 ![bash](docs/bash.png)
-![bash](docs/html.png)
-![bash](docs/css.png)
+![html](docs/html.png)
+![css](docs/css.png)
 
 
 
