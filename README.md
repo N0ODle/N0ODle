@@ -14,7 +14,7 @@
 ### Languages:
 
 
-![python](https://user-images.githubusercontent.com/32581705/89697916-6b29bb80-d8ec-11ea-922a-79d732a5a427.jpeg)
+![python](https://user-images.githubusercontent.com/32581705/89697972-bb088280-d8ec-11ea-80a0-b7830ca0d984.jpeg)
 ![java](https://user-images.githubusercontent.com/32581705/89697939-8d233e00-d8ec-11ea-9cf6-3a5feecb4895.png)
 ![C](docs/C.png)
 ![C++](docs/C++.png)
