@@ -36,10 +36,10 @@
 <br>
 <br>
 
-![N0ODle's github stats](https://github-readme-stats-6a7aak3k7.vercel.app/api?username=N0ODle&show_icons=true&include_all_commits=true&theme=highcontrast&count_private=true)
+![N0ODle's github stats](https://github-readme-stats-6a7aak3k7.vercel.app/api?username=N0ODle&show_icons=true&include_all_commits=true&theme=synthwave&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats-6a7aak3k7.vercel.app/api/top-langs/?username=N0ODle&theme=highcontrast&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-6a7aak3k7.vercel.app/api/top-langs/?username=N0ODle&theme=synthwave&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
