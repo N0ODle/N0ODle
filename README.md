@@ -1,20 +1,7 @@
 # N0ODle  aka  [rai] 👽
 
-- **🌙 researching AI applications in astronomy**
-
-- **📈 ML Engineer Intern @ SmartNup EdTech**
-
-- **⚡️Hobbies:**
-  - **🎹 music producing** 
-  - **🛠 reverse engineering**
-  - **💻 pentesting**
-  - **🚩 CTF hacking**
-  - **🔭 astronomy**
 
 
-<br>
-
----
 
 ### Languages:
 
